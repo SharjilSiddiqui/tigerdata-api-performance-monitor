@@ -1,5 +1,11 @@
 # 🚀 TigerData API Performance Monitor
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-Latest-orange)
+![Tiger Cloud](https://img.shields.io/badge/Tiger%20Cloud-Free%20Tier-purple)
+![SQL](https://img.shields.io/badge/SQL-Time--Series-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A small project built to explore Tiger Data (TimescaleDB) before applying for the Database Support Engineer role.
 
 Instead of following only the official tutorial, I wanted to build something related to my own engineering experience.

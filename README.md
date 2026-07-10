@@ -116,3 +116,9 @@ Through this project I learned:
 ### Aggregating data with time_bucket()
 
 ![Time Bucket](screenshots/time-bucket-query.png)
+
+## Reflection
+
+Building this project helped me understand how TimescaleDB extends PostgreSQL for time-series workloads using hypertables and time_bucket().
+
+Although this is a small project, it gave me practical experience with Tiger Cloud and reinforced concepts that are valuable for production monitoring and observability systems.

@@ -98,3 +98,21 @@ Through this project I learned:
 - Compression policies
 - Larger production-like dataset
 - Query performance comparisons
+
+## Demo
+
+### Creating the hypertable
+
+![Create Table](screenshots/create-table.png)
+
+---
+
+### Querying API metrics
+
+![Select](screenshots/select-query.png)
+
+---
+
+### Aggregating data with time_bucket()
+
+![Time Bucket](screenshots/time-bucket-query.png)
